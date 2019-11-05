@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BRApp</string>
+    <string name="address">%1$s\n%2$s, %3$s. %4$s</string>
+    <string name="address_">Address:</string>
+    <string name="phone_">Phone:</string>
+
+    <string name="action_share">Share</string>
+    <string name="action_see_github">See Github</string>
+    <string name="action_see_linkedin">See LinkedIn</string>
+
+    <string name="url_linkedin">https:www.linkedin.com/in/agm91</string>
+    <string name="url_github">https:www.github.com/agm91</string>
+
+    <string name="text_share">See this great dev!\nLinkedIn: https:www.linkedin.com/in/agm91\nGithub: https:www.github.com/agm91</string>
+</resources>
